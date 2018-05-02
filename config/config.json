@@ -5,7 +5,7 @@
 		"database": "test",
 		"host": "localhost",
 		"dialect": "sqlite",
-        "storage": "/home/kano/tweet.sqlite",
+        "storage": "/home/cooper/tweet.sqlite",
 		"logging": false
 	},
 	"test": {
