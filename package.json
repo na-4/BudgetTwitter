@@ -1,0 +1,41 @@
+{
+  "name": "BudgetTwitter",
+  "version": "1.0.0",
+  "description": "Fake Twitter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/na-4/BudgetTwitter.git"
+  },
+  "author": "cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/na-4/BudgetTwitter/issues"
+  },
+  "homepage": "https://github.com/na-4/BudgetTwitter#readme",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "cloudinary": "^1.10.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "moment": "^2.20.1",
+    "multer": "^1.3.0",
+    "sqlite3": "^4.0.0",
+    "passport": "^0.4.0",
+    "passport-http": "*",
+    "passport-local": "^1.0.0",
+    "router": "^1.3.2",
+    "sequelize": "^4.37.6",
+    "node-notifier": "^5.2.1"
+  }
+}
